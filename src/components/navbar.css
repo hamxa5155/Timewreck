@@ -1,0 +1,209 @@
+@import url('http://fonts.cdnfonts.com/css/riffic-free');
+@import url('http://fonts.cdnfonts.com/css/imperiumlatineserif');
+@import url('http://fonts.cdnfonts.com/css/tgroman');
+.navlink{
+    color: white !important;
+}
+.navbar{
+    background: rgba(126, 158, 200, 1);
+    font-family: Chelsea Market;
+font-size: 15px;
+font-weight: 400;
+line-height: 19px;
+
+height: 149px;
+
+justify-content: center !important;
+
+
+
+}
+.line{
+    position: absolute;
+left: 15.49%;
+right: 81.39%;
+top: 0.9%;
+bottom: 99.04%;
+
+background: #fff
+}
+.cloud{
+
+  
+    width: 207.62px;
+    height: 93.33px;
+    margin-left: 22.96px;
+    top: 174.15px;
+    background: rgba(126, 158, 200, 1);
+   
+
+}
+.tex{
+    font-family: 'Riffic Free', sans-serif;
+                                                
+    font-style: normal;
+font-size: 50px;
+font-weight: 700;
+line-height: 63px;
+width: 485.85px;
+color: rgba(255, 255, 255, 1);
+text-transform: uppercase;
+top: 292.63px;
+/* position: absolute/]; */
+margin-left: 101.4px;
+}
+.para{
+    font-family: 'ImperiumLatineSerif', sans-serif;
+                                                
+    font-size: 28px;
+    font-weight: 400;
+    
+
+    font-style: normal;
+    color: rgba(255, 255, 255, 1);
+    width: 559.63px;
+    height: 144px;
+    margin-left: 107px;
+top: 432.27px;
+}
+.group{
+    width: 683.48px;
+/* height: 439.5px; */
+position:absolute;
+/* left: 1337.14px; */
+/* top: 329.34px; */
+}
+.box_mainHome{
+    background: rgba(126, 158, 200, 1) !important;
+   
+    height: 633px;
+}
+.cloud2{
+    position: absolute;
+    width: 214.1px;
+    height: 80.97px;
+    left: 452.53px;
+    margin-top: 120px;
+        /* top: 680.88px; */
+    
+    
+
+}
+
+.test-container{
+    position: relative;
+    /* border: 1px solid black; */
+    height: 100%;
+}
+.picture-1{
+    position: absolute;
+    left: 10%;
+    top: 91.1px;
+    width : 90%
+}
+.picture-1 img{
+    width: 100%;
+}
+.picture-2{
+    position: absolute;
+    top: 187.34px;
+    left : 6%;
+    width: 683.48px;
+
+}
+.picture-2 img{
+    width: 100%;
+}
+
+.kkk{
+    /* position: absolute; */
+    /* background-image: url("../assets/Group.png"); */
+    width: 683.48px;
+height: 439.5px;
+/* top: 329.34px; */
+
+
+
+
+}
+.butt{
+    border-radius: 50px;
+    margin-left: 15%;
+ border: 2px solid white;
+    background: rgba(126, 158, 200, 1); 
+width: 35%;
+}
+.txt{
+    font-family: Riffic Free;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 28px;
+    color: #FFFFFF;
+    text-align: center;
+    padding: 10px;
+}
+.videoclsoud{
+  
+    top: 829.81px;
+
+}
+
+.videoimg{
+    width: 70%;
+    margin-left:18%;
+    margin-top: 5%;
+    
+
+}
+.videotext{
+    font-family: 'TGRoman', sans-serif;
+font-size: 28px;
+font-weight: 400;
+
+justify-content: justify;
+
+width: 70%;
+margin-left: 19%;
+margin-top: 10px;
+color: #fff;
+
+
+}
+.videocloud{
+    display: flex;
+    justify-content: flex-end;
+   position: absolute; 
+   right: 0%;
+}
+.parentIMageBtn{
+    position: relative;
+}
+
+.div_btnplay{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.fortimages{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+@media only screen and (max-width:1500px) {
+   .picture-2{
+    width: 563.48px;
+   
+    }
+    .box_mainHome{
+        height:560px
+    }
+    .cloud2{
+     
+        margin-top: 45px;
+            /* top: 680.88px; */
+        
+        
+    
+    }
+}
